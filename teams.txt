@@ -1,0 +1,5 @@
+10000	Stringers	San Diego
+20000	Dreamers	Detroitte
+30000	Vikings		Los Vegas
+40000	Crusaders	Cleaveland
+50000	Tigers		Tampa

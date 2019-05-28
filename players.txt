@@ -1,0 +1,44 @@
+00001	John Smith	01	72	160	Guard
+00002	Marc Jacobs	02	70	188	Point
+00003	Rob Irwin	03	80	158	Forward
+00004	Ken Jones	04	74	190	Guard
+00005	Chris Monn	05	77	215	Guard
+00006	Harry June	06	76	205	Forward
+00007	Micheal Klay	07	68	168	Point
+00008	Joe Lamm	08	65	155	Forward
+
+00009	Jon Hamm	09	75	178	Guard
+00010	Leo Precap	10	78	174	Point
+00011	Shane Bane	11	81	199	Guard
+00012	Carl Yool	12	77	186	Forward
+00013	John Walks	13	71	185	Guard
+00014	Freddy Klien	14	72	175	Forward
+00015	David Yurman	15	77	195	Point
+00016	Moses Kramer	16	73	210	Forward
+
+00017	Nick Rider	17	73	170	Point
+00018	Ben Green	18	76	185	Guard
+00019	Steven Post	19	80	187	Forward
+00020	Emmette Shore	20	65	156	Forward
+00021	Darrell Darcy	21	68	162	Point
+00022	Noah Grass	22	69	168	Guard
+00023	Jim Carry	23	62	146	Forward
+00024	Don Draper	24	65	187	Guard
+
+00025	Micheal Scott	25	67	194	Guard
+00026	Jim Alpert	26	69	200	Forward
+00027	Rainn Wilson	27	63	208	Forward
+00028	Russel Crow	28	66	195	Point
+00029	Justin Meaver	29	71	167	Point
+00030	Harry Luman	30	74	165	Guard
+00031	Abe Finkle	31	72	188	Guard
+00032	Dave Finkles	32	78	176	Forward
+
+00033	Joshua Levi	33	75	198	Forward
+00034	Rueben Clay	34	76	205	Guard
+00035	Simon Garfunkel	35	71	220	Forward
+00036	Judah Jacobs	36	79	225	Point
+00037	Daniel Freed	37	69	213	Forward
+00038	Usher Norman	38	70	185	Guard
+00039	Joseph Bensalem	39	71	197	Point
+00040	Benji Phillips	40	76	200	Guard
